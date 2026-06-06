@@ -132,9 +132,8 @@ section accordingly.
 
 ---
 
-## Repository structure
+## Structure
 
-*(example layout — adjust to match your actual files)*
 
 ```
 .
